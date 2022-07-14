@@ -1,0 +1,343 @@
+.image_phone{
+    margin-left: 15%;
+    padding: 1.25%;
+    width: 60%;
+    
+}
+
+.login{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 21.875em;
+    height: 25em;
+    margin-left: 55%;
+    margin-top: -37.5em;
+}
+.log{
+    padding: 0.4375em;
+    width: 17.500em;
+   margin-top: 0%;
+    font-size: 0.75em;
+    
+   
+    
+}
+
+.pass{
+    padding: 0.4375em;
+    width: 15.625em;
+    margin-top: 0.625em;
+}
+.imgg{
+    background-color: #478EEF;
+    padding: 0.4375em;
+    width: 17em;
+    margin-top: 0.625em;
+    border-radius: 6px;
+    color: white;
+    border: none;
+}
+.face{
+    margin-top: 0.625em;
+    margin-left: 21%;
+    width: 1.875em;
+}
+.sp{
+color: #00376b;
+font-size: 0.875em;
+
+margin-left: 31%;
+margin-top: -1.6875em;
+}
+
+.zb{
+   color: rgba(var(--fe0,0,55,107),1);
+   font-size: 0.8125em;
+   margin-left: 6%;
+}
+.esim{
+    background-color: white;
+    border: 0.0625em solid #ccc;
+    width: 20em;
+    height: 12.5em;
+    margin-left: 55%;
+    padding: 1.86%;
+    margin-top: 0.625em;
+    color: #262626;
+    
+}
+.sse{
+    color: #0095f6;
+}
+.yaxq{
+    margin-left: 62%;
+    font-size: 0.9375em;
+    color: #262626;
+}
+
+.apple{
+    
+    margin-left: 57%;
+    width: 9.375em;
+}
+.glgl{
+
+    width: 9.375em;
+}
+pre{
+    color: #8e8e8e;
+}
+
+@media only screen and (max-width: 500px){
+    .image_phone{ display: none;   }
+    .login{width: 59%; 
+         padding:9%;
+         margin-top: 10px;   
+         background-size: 100%;
+         border: none;
+    }
+    .imge{
+margin-left: -10%;        
+    }
+    .sse{
+        background-color: white;
+        display: none;
+        width: 135px;
+        padding: 6px;
+        margin-left: 82%;
+        margin-top: -42px;
+        
+    }
+    .esim{
+        border: none;
+        display: none;
+    }
+    .glgl{
+       display: none;
+    }
+    .apple{
+    display: none;
+    }
+   
+.yaxq{
+    display:none;
+}
+.sp{
+    margin-right: 13px;
+}
+.log{
+    padding: 0.4375em;
+    width: 17.500em;
+   margin-top: 0%;
+    font-size: 0.75em;
+    margin-left: 3em;
+   
+    
+}
+
+.pass{
+    padding: 0.4375em;
+    width: 15.5em;
+    margin-top: 0.625em;
+    margin-left: 3em;
+}
+
+
+}
+
+@media only screen and (max-width: 600px){
+    .image_phone{ display: none;   }
+    .login{width: 59%; 
+         padding:9%;
+         margin-top: 10px;   
+         background-size: 100%;
+         border: none;
+    }
+    .imge{
+margin-left: -10%;        
+    }
+    .sse{
+        background-color: white;
+        display: none;
+        width: 135px;
+        padding: 6px;
+        margin-left: 82%;
+        margin-top: -42px;
+        
+    }
+    .esim{
+        border: none;
+        display: none;
+    }
+    .glgl{
+       display: none;
+    }
+    .apple{
+    display: none;
+    }
+   
+.yaxq{
+    display:none;
+}
+.sp{
+    margin-right: 13px;
+}
+.log{
+    padding: 0.4375em;
+    width: 17.500em;
+   margin-top: 0%;
+    font-size: 0.75em;
+    
+   
+    
+}
+
+.pass{
+    padding: 0.4375em;
+    width: 15.5em;
+    margin-top: 0.625em;
+}
+
+
+}
+
+@media only screen and (max-width: 400px){
+    .image_phone{ display: none;   }
+    .login{width: 59%; 
+         padding:9%;
+         margin-top: 10px;   
+         background-size: 100%;
+         border: none;
+    }
+    .imge{
+margin-left: -10%;        
+    }
+    .sse{
+        background-color: white;
+        display: none;
+        width: 135px;
+        padding: 6px;
+        margin-left: 82%;
+        margin-top: -42px;
+        
+    }
+    .esim{
+        border: none;
+        display: none;
+    }
+    .glgl{
+       display: none;
+    }
+    .apple{
+    display: none;
+    }
+   
+.yaxq{
+    display:none;
+}
+.sp{
+    margin-right: 13px;
+}
+.log{
+    padding: 0.4375em;
+    width: 17.500em;
+   margin-top: 0%;
+    font-size: 0.75em;
+    
+   
+    
+}
+
+.pass{
+    padding: 0.4375em;
+    width: 19em;
+    margin-top: 0.625em;
+}
+
+
+}
+
+
+@media only screen and (max-width: 399px){
+    .image_phone{ display: none;   }
+    .login{width: 99%; 
+         padding:5%;
+         margin-top: 10px;   
+         background-size: 230%;
+         border: none;
+    }
+    .log{
+        padding: 0.4375em;
+        width: 17.500em;
+       margin-top: 0%;
+        font-size: 0.75em;
+        
+       
+        
+    }
+    
+    .pass{
+        padding: 0.4375em;
+        width: 15.500em;
+        margin-top: 0.625em;
+    }
+    .imge{
+        margin-left: -10%;        
+            }
+            .sse{
+                background-color: white;
+                display: none;
+                width: 135px;
+                padding: 6px;
+                margin-left: 82%;
+                margin-top: -42px;
+                
+            }
+            .esim{
+                border: none;
+                display: none;
+            }
+            .glgl{
+               display: none;
+            }
+            .apple{
+            display: none;
+            }
+           
+        .yaxq{
+            display:none;
+        }
+        .sp{
+            margin-right: 13px;
+        }
+    
+}
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) { 
+        .image_phone{ display: none;   }
+    .login{width: 99%; 
+         padding:5%;
+         margin-top: 10px;   
+         background-size: 230%;
+         border: none;
+    }
+    .log{
+        padding: 0.4375em;
+        width: 17.500em;
+       margin-top: 0%;
+        font-size: 0.75em;
+        
+       
+        
+    }
+    
+    .pass{
+        padding: 0.4375em;
+        width: 19em;
+        margin-top: 0.625em;
+    }
+    
+    }
